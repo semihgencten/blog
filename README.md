@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a basic Rails on Ruby application which you can create articles, update and delete them. You can also make commnets to these articles
 
-Things you may want to cover:
+* To run Ruby 2.7.0 version should be installed
+* sqlite3 databese is required, you can install it here: https://www.sqlite.org/download.html
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
